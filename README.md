@@ -1,4 +1,4 @@
-# christmas-tree
+# 2D christmas tree
 
 Demo : [christmas tree 2D](https://hamzahanafi11.github.io/christmas-tree/)
 
