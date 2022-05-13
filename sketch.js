@@ -8,7 +8,7 @@ function setup() {
 	slider.parent('slider');
 }
 
-/* required function for p5 */
+/* p5 draw function */
 function draw() {
 	angle = slider.value();
 	background(122,122,122);
