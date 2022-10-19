@@ -1,6 +1,6 @@
 # 2D christmas tree
 
-Feel free to contribute with me :)
+Feel free to contribute :)
 
 Demo : [christmas tree 2D](https://hamzahanafi11.github.io/christmas-tree/)
 
